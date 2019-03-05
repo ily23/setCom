@@ -47,6 +47,22 @@ $packages = [
     'TinyMCE Rich Text Editor' => [
         'version' => '1.0.0',
         'service_url' => 'modx.com'
+    ],
+    'phpThumbOn' => [
+        'version' => '1.3.5',
+        'service_url' => 'modstore.pro'
+    ],
+    'frontendManager ' => [
+        'version' => '1.1.1',
+        'service_url' => 'modstore.pro'
+    ],
+    'ClientConfig ' => [
+        'version' => '2.1.0',
+        'service_url' => 'modx.com'
+    ],
+    'MIGX' => [
+        'version' => '2.12.0',
+        'service_url' => 'modx.com'
     ]
 ];
 
